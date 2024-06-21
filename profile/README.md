@@ -17,7 +17,7 @@ Semaroam is an application that can provide a holiday itinerary per day that con
 ### Backend API
 [Backend API](https://api-semaroam-zzwmfkvm2q-et.a.run.app/)
 ### API Documentation
-[API Docs](https://api-semaroam-zzwmfkvm2q-et.a.run.app/)
+[API Docs](https://docs.google.com/document/d/1A7ckbSGgUgxVfwSOEJ4MxZ8hL2D9FTx-nzE-Cx8KTg8/edit?usp=sharing)
 ### ML API Notebook
 [Notebook](https://github.com/Semaroam/CapstoneProject-ML)
 ### Dataset
