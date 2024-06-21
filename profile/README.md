@@ -15,14 +15,12 @@ Semaroam is an application that can provide a holiday itinerary per day that con
 | T. Indris Andina | A322D4KY4237 | Android Development |
 
 ### Backend API
-XXX
-### Dokumentasi API
-XXX
-### ML Model API
-XXX
+[Backend API](https://api-semaroam-zzwmfkvm2q-et.a.run.app/)
+### API Documentation
+[API Docs](https://api-semaroam-zzwmfkvm2q-et.a.run.app/)
 ### ML API Notebook
-XXXX
+[Notebook](https://github.com/Semaroam/CapstoneProject-ML)
 ### Dataset
-Semaroam (Self Dataset)
-### App Design
-XXXX
+[Semaroam (Self Dataset)](https://raw.githubusercontent.com/Semaroam/CapstoneProject-ML/main/dataset/rea/all_tourism_semarang.csv)
+### Semaroam App
+[App](https://drive.google.com/file/d/1OqZwxfi3wYTSUnltCelyqQELal67_8Z6/view?usp=sharing)
